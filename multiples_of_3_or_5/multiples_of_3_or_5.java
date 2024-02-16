@@ -1,3 +1,4 @@
+package multiples_of_3_or_5;
 import java.util.*;
 
 class multiples_of_3_or_5 {
